@@ -25,7 +25,7 @@ Finally, reshape the X_train and X_test values to fit the model's requirement of
 
 Using 30% of the data for testing, I have found the following:
 
-The Closing model had a lower loss of , compared to the FNG model that had a loss of .
+The Closing model had a lower loss of 0.0627, compared to the FNG model that had a loss of .
 The Closing model tracks the actual values better over time compared to the FNG model.
 
 
