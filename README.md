@@ -4,7 +4,7 @@ Due to the volatility of cryptocurrency speculation, investors will often try to
 
 I used deep learning recurrent neural networks to model bitcoin closing prices. One model will use the FNG indicators to predict the closing price while the second model will use a window of closing prices to predict the nth closing price.
 
-My task were to:
+My tasks were to:
 
 1.  Prepare the data for training and testing
 2.  Build and train custom LSTM RNNs
