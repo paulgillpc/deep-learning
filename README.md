@@ -34,3 +34,4 @@ The Closing model tracks the actual values better over time compared to the FNG 
 ![image](https://user-images.githubusercontent.com/80648280/134361125-8826e788-e7f7-488a-a282-edf10910e35c.png)
 
 
+![image](https://user-images.githubusercontent.com/80648280/134361280-78a42795-2798-4529-90bf-571ceaa3e394.png)
