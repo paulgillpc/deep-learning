@@ -23,4 +23,9 @@ Apply a MinMaxScaler to the X and y values to scale the data for the model.
 Finally, reshape the X_train and X_test values to fit the model's requirement of samples, time steps, and features. (example: X_train = X_train.reshape((X_train.shape[0], X_train.shape[1], 1)))
 
 
+Using 30% of the data for testing, I have found the following:
+
+The Closing model had a lower loss of , compared to the FNG model that had a loss of .
+The Closing model tracks the actual values better over time compared to the FNG model.
+
 
